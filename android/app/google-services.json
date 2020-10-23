@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80395269489",
+    "firebase_url": "https://ripeto-f8f4d.firebaseio.com",
+    "project_id": "ripeto-f8f4d",
+    "storage_bucket": "ripeto-f8f4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80395269489:android:0d852efb718fe9c88272d0",
+        "android_client_info": {
+          "package_name": "com.durianator.ripeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80395269489-4hun2dibnflik5ja3eak5edqari8pfbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3mKCsQMPkToPSkH_YcSbWsWKN5ri0mgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80395269489-4hun2dibnflik5ja3eak5edqari8pfbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
